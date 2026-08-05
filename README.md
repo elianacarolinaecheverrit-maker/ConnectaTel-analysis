@@ -117,12 +117,12 @@ También se recomienda combinar la segmentación por edad con el nivel de uso pa
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Ingresar al repositorio público de GitHub.
-2. Abrir la carpeta donde se encuentra el notebook.
-3. Seleccionar el archivo `ConnectaTel_Analisis_Final.ipynb`.
-4. Descargar el notebook o abrirlo utilizando Google Colab.
-5. En Google Colab, ejecutar las celdas en orden desde el inicio hasta el final.
-6. Verificar que los datasets utilizados estén disponibles y que las rutas de acceso sean correctas.
-7. Ejecutar las celdas de limpieza, análisis exploratorio, visualización, identificación de outliers y segmentación.
+2. Entrar a la carpeta `notebooks`.
+3. Abrir el archivo `ConnectaTel_Analisis_Final.ipynb`.
+4. Descargar el notebook mediante la opción de descarga de GitHub.
+5. Abrir el archivo en Google Colab.
+6. Cargar o verificar la disponibilidad de los datasets requeridos.
+7. Ejecutar las celdas en orden desde el inicio hasta el final.
 8. Revisar los resultados, gráficos, insights y conclusiones del análisis ejecutivo.
 
 ## 🔄 Guía de reproducción
@@ -139,4 +139,4 @@ También se recomienda combinar la segmentación por edad con el nivel de uso pa
     
 ## 🔗 Repositorio público
 
-LINK a tu repo aquí
+https://github.com/elianacarolinaecheverrit-maker/ConnectaTel-analysis
